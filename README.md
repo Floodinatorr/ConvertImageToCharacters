@@ -23,8 +23,8 @@ python main.py
 ### Preview
 
 Normal:
-<img src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.png" width="300" height="280" />
+<img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.jpg" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.jpg" width="300" height="280" />
 
 Converted:
-<img src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" width="300" height="280" />
+<img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" width="300" height="280" />
 
