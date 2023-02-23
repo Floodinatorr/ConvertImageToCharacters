@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000;
+}
+
+.text{
+    color:#fff;
+    font-family: monospace;
+    font-size: 10px;
+    line-height: 10px;
+    white-space: pre;
+    letter-spacing: 5px;
+}
