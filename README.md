@@ -20,11 +20,15 @@ Then, you need to run the system. You can run the system with the command below.
 python main.py
 ```
 
+Finally, you can see the result with opening the "index.html" file.
+
 ### Preview
 
 Normal:
+
 <img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.jpg" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.jpg" width="480" height="300" />
 
 Converted:
+
 <img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" width="480" height="300" />
 
