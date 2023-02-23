@@ -16,11 +16,28 @@ First, you need to install the requirements. You can install requirements with t
 pip install -r requirements.txt
 ```
 
-Then, you need to run the system. You can run the system with the command below.
+Then, you need to run the system. You can run the system with the command below. 
 
 ```bash
-python main.py
+python main.py -w image=image_name.jpg
 ```
+
+> Note 1: You can use any image format, name or path.
+> Note 2: You must write the image name. If you don't write the image name, the system will rasie an error.
+
+You can change scale of image with the command below.
+
+```bash
+python main.py -w image=image_name.jpg scale=0.5
+```
+
+You can change size(px) with the command below.
+
+```bash
+python main.py -w image=image_name.jpg size=100
+```
+
+> Note: You can use only one of scale or size. If you use both of them, the system will use the "scale" parameter.
 
 Finally, you can see the result with opening the "index.html" file.
 
