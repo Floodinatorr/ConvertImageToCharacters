@@ -22,6 +22,9 @@ python main.py
 
 ### Preview
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.png" width="300" height="280" />
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" width="300" height="280" />
+Normal:
+<img src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.png" width="300" height="280" />
+
+Converted:
+<img src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" width="300" height="280" />
 
