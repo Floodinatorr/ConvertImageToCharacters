@@ -22,6 +22,6 @@ python main.py
 
 ### Preview
 
-![Normal](https://github.com/Floodinatorr/ConvertImageToCharacters/blob/main/normal.jpg?raw=true | width=300) 
-!["Final"](https://github.com/Floodinatorr/ConvertImageToCharacters/blob/main/final.png?raw=true | width=300)
+![Normal](https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.png | width=300) 
+!["Final"](https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png | width=300)
 
