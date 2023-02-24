@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@900&family=Rowdies&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -5,14 +7,38 @@
 }
 
 body{
-    background-color: #000;
+    background-color: #b4b4b4;
 }
 
 .text{
     color:#fff;
-    font-family: monospace;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
     font-size: 10px;
     line-height: 10px;
     white-space: pre;
     letter-spacing: 5px;
+}
+
+.row{
+    display: flex;
+    flex-direction: column;
+}
+
+.col{
+    display: flex;
+    flex-direction: row;
+}
+
+.pixel{
+    width: 10px;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rowdies', cursive;
+    font-weight: 800;
 }
