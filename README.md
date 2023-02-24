@@ -62,4 +62,5 @@ Converted (Gray Scale) :
 <img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final_gray.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final_gray.png" width="480" height="300" />
 
 Converted (Color Scale) :
+
 <img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final_color.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final_color.png" width="480" height="300" />
