@@ -39,6 +39,16 @@ python main.py -w image=image_name.jpg size=100
 
 > Note: You can use only one of scale or size. If you use both of them, the system will use the "scale" parameter.
 
+You can change mode with the command below.
+
+```bash
+python main.py -w image=image_name.jpg mode=mode_name
+```
+
+Mode names:
+- Gray Scale [gray] : This mode converts the image to gray scale. If you don't write the mode name, the system will use this mode. 
+- Color Scale [color] : This mode converts the image to color scale. 
+
 Finally, you can see the result with opening the "index.html" file.
 
 ### Preview
@@ -47,7 +57,9 @@ Normal:
 
 <img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.jpg" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/normal.jpg" width="480" height="300" />
 
-Converted:
+Converted (Gray Scale) :
 
-<img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final.png" width="480" height="300" />
+<img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final_gray.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final_gray.png" width="480" height="300" />
 
+Converted (Color Scale) :
+<img style="display:block;" src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final_color.png" data-canonical-src="https://raw.githubusercontent.com/Floodinatorr/ConvertImageToCharacters/main/final_color.png" width="480" height="300" />
